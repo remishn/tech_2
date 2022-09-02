@@ -1,5 +1,5 @@
 {
-  "name": "tech_blog",
+  "name": "tech_2",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/remishn/Tech_blog.git"
+    "url": "git+https://github.com/remishn/Tech_2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/remishn/Tech_blog/issues"
+    "url": "https://github.com/remishn/Tech_2/issues"
   },
-  "homepage": "https://github.com/remishn/Tech_blog#readme",
+  "homepage": "https://github.com/remishn/Tech_2#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "bulma": "^0.9.4",
@@ -28,7 +28,7 @@
     "express-session": "^1.17.3",
     "modules": "^0.4.0",
     "mysql2": "^2.3.3",
-    "node": "^18.7.0",
+    "node": "^16.15.1",
     "nodemon": "^2.0.19",
     "sequelize": "^6.21.3"
   },
